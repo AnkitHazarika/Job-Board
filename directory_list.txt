@@ -1,0 +1,14 @@
+
+    Directory: C:\Ankit\SERIOUS ARTICLES\VIT\COURSE\MERN FullStack\job_board_app-main\job_board_app-main
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          09-04-2025    21:37                assets
+d----          14-04-2025    13:42                backend
+d----          17-04-2025    15:07                frontend
+d----          17-04-2025    14:54                node_modules
+-a---          17-04-2025    16:40              0 directory_list.txt
+-a---          17-04-2025    14:54           5250 package-lock.json
+-a---          17-04-2025    14:54             53 package.json
+-a---          09-04-2025    21:37           2543 readme.md
+
